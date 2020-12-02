@@ -1,11 +1,12 @@
 {
-  "posts": [
+  students:[
     {
-      "id": 1,
-      "title": "hello"
+      name: "Shahid",
+      age: 33
+    },
+    {
+      name: "Ayman",
+      age: 13
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
